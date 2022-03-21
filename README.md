@@ -7,4 +7,4 @@ Blob Detection implementation in PYTHON
 
 
 Work done by :
-Abdul Wahid and Mansi Kakkar
+Mansi Kakkar and Abdul Wahid
